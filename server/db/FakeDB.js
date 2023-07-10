@@ -1,3 +1,5 @@
+// NOTE not an actual database, just setting up somewhere to store our data. This will change tomorrow
+
 export const cats = [
   {
     id: 1,
